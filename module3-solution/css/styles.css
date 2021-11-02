@@ -1,0 +1,22 @@
+#header-nav{
+	background-color: #f6b319;
+	border-radius: 0:
+	border: 0;
+}
+
+.navbar-brand{
+	padding-top: 10px;
+	height: 80px;
+}
+
+.navbar-brand h1{
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}
+
+#our-menu{
+	font-weight: bold;
+	font-size: 2em;
+}
