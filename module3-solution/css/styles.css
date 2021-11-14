@@ -1,15 +1,24 @@
 #header-nav{
-	background-color: #f6b319;
+	background-color: #ffe53e;
 	border-radius: 0:
 	border: 0;
 }
 
 .navbar-brand{
 	padding-top: 10px;
-	height: 80px;
+	
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	clear: both;
+}
+
+.navbar-header{
+	height: 100px;
 }
 
 .navbar-brand h1{
+	clear: both;
 }
 
 .navbar-brand a:hover, .navbar-brand a:focus{
@@ -17,6 +26,18 @@
 }
 
 #our-menu{
-	font-weight: bold;
 	font-size: 2em;
+	font-weight: bold;
+	color: blue;
+}
+
+h3{
+	font-size: 1.6em;
+	font-weight: bold;
+	background-color: #ffe53e;
+	color: blue;
+}
+
+p{
+	font-size: 1.2em;
 }
